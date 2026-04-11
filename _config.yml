@@ -51,13 +51,13 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "maplestorybeta80@hotmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: 
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: 
   github: beta80.GitHub.io
-  twitter: 
-  patreon: 
-  youtube: ""
-  whatsapp: 
+#  twitter: 
+#  patreon: 
+#  youtube: ""
+#  whatsapp: 
   medium: ESpejo chino
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
