@@ -15,6 +15,9 @@ title: ESpejo chino
 # Your name to show in the footer
 author: maplestorybeta80
 
+url: "https://beta80.github.io"
+baseurl: ""
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
