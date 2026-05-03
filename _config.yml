@@ -245,16 +245,16 @@ gtag: "G-TXDCGVY18X"
 # (2) Install the giscus app in your repository (details at https://giscus.app),
 # (3) Fill in *all* the parameters below
 # See more details about giscus and each of the following parameters at https://giscus.app
-#giscus:
-#  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
-#  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#  repository-id: # ID of your repository, retrieve this info from https://giscus.app
-#  category: Announcements # Category name of your GitHub Discussion posts
-#  category-id: # ID of your category, retrieve this info from https://giscus.app
-#  mapping: pathname
-#  reactions-enabled: 1
-#  emit-metadata: 0
-#  theme: light
+giscus:
+  hostname: giscus.app # Replace with your giscus instance's hostname if self-hosting
+  repository: beta80/beta80.GitHub.io # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  repository-id: R_kgDOSAIkTA # ID of your repository, retrieve this info from https://giscus.app
+  category: General # Category name of your GitHub Discussion posts
+  category-id: DIC_kwDOSAIkTM4C8P8h # ID of your category, retrieve this info from https://giscus.app
+  mapping: pathname
+  reactions-enabled: 1
+  emit-metadata: 0
+  theme: light
 
 ################
 # --- Misc --- #
