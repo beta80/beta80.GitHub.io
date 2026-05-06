@@ -308,7 +308,6 @@ exclude:
   - docs/
 
 url: "https://beta80.github.io"
-baseurl: ""
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
