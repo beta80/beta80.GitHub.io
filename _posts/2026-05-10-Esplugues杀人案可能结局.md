@@ -1,4 +1,18 @@
+---
+layout: post
+title: 在加泰罗尼亚续居留必须会加泰罗尼亚语吗
+subtitle: 
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/asesinato.png
+tags: [西班牙, 刑法]
+author: ESpejo chino
+---
+
+摘要：
 2026年5月初在巴塞罗那Esplugues发生了一起恶性杀人事件，由于被害人是一名中国籍女性，被众多华语媒体大肆报道。本文笔者将分析该罪犯在西班牙刑法框架内可能结局，以及现行惩戒制度的不足。
+
+---
 
 ## 拟定事实
 根据新闻报道 [El asesino de Esplugues ya tuvo un brote psicótico en un altercado anterior en Burgos](https://www.lavanguardia.com/sucesos/20260506/11531735/asesino-esplugues-tuvo-brote-psicotico-altercado-anterior-burgos.html) [El asesino de Esplugues ingresa en la unidad psiquiátrica de Brians 1](https://www.elperiodico.com/es/sucesos/20260506/asesino-esplugues-ingresa-unidad-psiquiatrica-129898963)，杀人犯是一名有精神疾病病史的男子，采取刀具割颈的方式从背后偷袭了正在散步的被害人，并在受害人身上反复捅刺。杀人后伤害了多名路人。被捕后似乎接受了精神鉴定，法医确定行凶时精神疾病发作，因此被收押在精神病院，等待法庭审理。
