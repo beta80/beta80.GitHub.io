@@ -23,15 +23,15 @@ author: ESpejo chino
 
 ## 相似案例
 2026年最高法最新判例：2023年一名有精神疾病病史的男子，使用刀具偷袭了坐在椅子上的陌生男子，连续在致命部位捅刺五下。被捕后，未接受精神鉴定。被害人最终获救。
-凶手以谋杀罪未遂，获刑8年，刑期因精神疾病或部分减免。
+凶手以谋杀罪未遂，获刑8年，刑期因精神疾病获部分减免。
 
 ## 可能结局
 1. 根据该判例，Esplugues杀人凶手至少会以谋杀罪已遂，获刑15-25年。
 2. 可能因为增加被害人痛苦的行为，刑期将延长为20-25年（取决于反复捅刺发生在被害人身亡前后）。
-3. 可能因为多项伤害罪，数罪并罚，每多一个伤害罪，刑期将延长2-5年，或判处相应罚金。
-4. 但是西班牙允许服刑的最高年限是20年。
+3. 可能因为多项伤害罪，数罪并罚，每多一个伤害罪，刑期将延长2-5年。
+4. 但是西班牙允许服刑的上限是20年。
 5. 因为行凶时精神病发作，不负刑事责任。
-6. 精神病院收容，接受不长于20年的精神治疗。
+6. 根据刑法第101条，由精神病院收容，接受不长于20年的精神治疗。
 
 ## 反映问题
 1. 本案与德国[莱比锡案](https://mp.weixin.qq.com/s?src=11&timestamp=1778452383&ver=6713&signature=fRorM*swXS5y*gKKRpLnRyU5dhJN0b9uhiBBp3BwxL3t0Flx3yXK9r8hhOHxijNa7-J5vSWuc4Znyf1Mp8kj0VcNp0wwMus-lIkIHQ*4y2YlqogZ11kjZxPlqQvb-5ax&new=1)  都反映了欧洲公权力部门缺乏提前介入手段，并不能提前监控具有高度社会危害性的个体
@@ -40,5 +40,7 @@ author: ESpejo chino
 尾注：
 1.
 Vanguardian[El asesino de Esplugues ya tuvo un brote psicótico en un altercado anterior en Burgos](https://www.lavanguardia.com/sucesos/20260506/11531735/asesino-esplugues-tuvo-brote-psicotico-altercado-anterior-burgos.html)
+
 El Periodico [El asesino de Esplugues ingresa en la unidad psiquiátrica de Brians 1](https://www.elperiodico.com/es/sucesos/20260506/asesino-esplugues-ingresa-unidad-psiquiatrica-129898963)
+
 2. [Del cumplimiento de las penas, la reeducación social y la alarma social a cuento de Lleida, por Diego Fierro Rodríguez](https://www.hayderecho.com/2026/05/07/del-cumplimiento-de-las-penas-la-reeducacion-social-y-la-alarma-social-a-cuento-de-lleida/)
