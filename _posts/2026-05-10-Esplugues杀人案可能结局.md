@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在加泰罗尼亚续居留必须会加泰罗尼亚语吗
+title: Esplugues杀人犯可能结局
 subtitle: 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
