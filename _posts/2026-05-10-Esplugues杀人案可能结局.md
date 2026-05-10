@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Esplugues杀人犯可能结局
+title: Esplugues杀人案可能结局
 subtitle: 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
