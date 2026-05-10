@@ -38,9 +38,12 @@ author: ESpejo chino
 2. 本案也值得我们对社会再教育的宪法精神进行反思：近期Lleida有一名重刑犯刑满释放<sup>2</sup>，该罪犯服刑期间拒不接受任何再教育，出狱评估显示有高度再犯可能，这引发西班牙社会对于现行惩戒制度的反思。设想：如果Esplugues杀人犯在精神病院拒不接受治疗，20年后他就会从精神病院无条件释放，到时候我们怎么去应对这样一个有高度再犯可能的精神病人呢？
 
 尾注：
-1.
-Vanguardian[El asesino de Esplugues ya tuvo un brote psicótico en un altercado anterior en Burgos](https://www.lavanguardia.com/sucesos/20260506/11531735/asesino-esplugues-tuvo-brote-psicotico-altercado-anterior-burgos.html)
+<div align="left">
 
-El Periodico [El asesino de Esplugues ingresa en la unidad psiquiátrica de Brians 1](https://www.elperiodico.com/es/sucesos/20260506/asesino-esplugues-ingresa-unidad-psiquiatrica-129898963)
+1. **Vanguardia** [El asesino de Esplugues ya tuvo un brote psicótico...](https://www.lavanguardia.com/sucesos/20260506/11531735/asesino-esplugues-tuvo-brote-psicotico-altercado-anterior-burgos.html)
 
-2. [Del cumplimiento de las penas, la reeducación social y la alarma social a cuento de Lleida, por Diego Fierro Rodríguez](https://www.hayderecho.com/2026/05/07/del-cumplimiento-de-las-penas-la-reeducacion-social-y-la-alarma-social-a-cuento-de-lleida/)
+   **El Periodico** [El asesino de Esplugues ingresa en la unidad psiquiátrica...](https://www.elperiodico.com/es/sucesos/20260506/asesino-esplugues-ingresa-unidad-psiquiatrica-129898963)
+
+2. [Del cumplimiento de las penas...](https://www.hayderecho.com/2026/05/07/del-cumplimiento-de-las-penas-la-reeducacion-social-y-la-alarma-social-a-cuento-de-lleida/)
+
+</div>
