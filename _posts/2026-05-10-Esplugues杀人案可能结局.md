@@ -19,7 +19,7 @@ author: ESpejo chino
 ---
 
 ## 拟定事实
-根据新闻报道[^1][^2]，杀人犯是一名有精神疾病病史的男子，采取刀具割颈的方式从背后偷袭了正在散步的被害人，并在受害人身上反复捅刺。杀人后伤害了多名路人。被捕后似乎接受了精神鉴定，法医确定行凶时精神疾病发作，因此被收押在精神病院，等待法庭审理。
+根据新闻报道[^1] [^2] ，杀人犯是一名有精神疾病病史的男子，采取刀具割颈的方式从背后偷袭了正在散步的被害人，并在受害人身上反复捅刺。杀人后伤害了多名路人。被捕后似乎接受了精神鉴定，法医确定行凶时精神疾病发作，因此被收押在精神病院，等待法庭审理。
 
 ## 相似案例
 2026年最高法最新判例：2023年一名有精神疾病病史的男子，使用刀具偷袭了坐在椅子上的陌生男子，连续在致命部位捅刺五下。被捕后，未接受精神鉴定。被害人最终获救。
@@ -41,10 +41,10 @@ author: ESpejo chino
 
 尾注：
 
-[^1] **Vanguardia** [El asesino de Esplugues ya tuvo un brote psicótico...](https://www.lavanguardia.com/sucesos/20260506/11531735/asesino-esplugues-tuvo-brote-psicotico-altercado-anterior-burgos.html)
+[^1]:  Vanguardian [El asesino de Esplugues ya tuvo un brote psicótico en un altercado anterior en Burgos](https://www.lavanguardia.com/sucesos/20260506/11531735/asesino-esplugues-tuvo-brote-psicotico-altercado-anterior-burgos.html)
 
-[^2] **El Periodico** [El asesino de Esplugues ingresa en la unidad psiquiátrica...](https://www.elperiodico.com/es/sucesos/20260506/asesino-esplugues-ingresa-unidad-psiquiatrica-129898963)
+[^2]:  El Periodico [El asesino de Esplugues ingresa en la unidad psiquiátrica de Brians 1](https://www.elperiodico.com/es/sucesos/20260506/asesino-esplugues-ingresa-unidad-psiquiatrica-129898963)
 
-[^3] [Del cumplimiento de las penas...](https://www.hayderecho.com/2026/05/07/del-cumplimiento-de-las-penas-la-reeducacion-social-y-la-alarma-social-a-cuento-de-lleida/)
+[^3]: [Del cumplimiento de las penas...](https://www.hayderecho.com/2026/05/07/del-cumplimiento-de-las-penas-la-reeducacion-social-y-la-alarma-social-a-cuento-de-lleida/)
 
 
